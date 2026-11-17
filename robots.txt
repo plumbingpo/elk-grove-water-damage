@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elkgroverestoration.com/sitemap.xml
